@@ -5,6 +5,7 @@ import Link from "next/link";
 import TopSection from "./TopSection";
 import RightSection from "./RightSection";
 import LeftSection from "./LeftSection";
+import { Metadata } from "next";
 
 const inter = Inter({ subsets: ["latin"] });
 
